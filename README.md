@@ -21,6 +21,24 @@
 
 ## 功能展示
 
+### 界面预览
+
+| 主界面（导航 + 题目卡片 + 进度条） | 数据报告（4 张 Chart.js 图表） |
+| :---: | :---: |
+| ![主界面](docs/assets/screenshots/interactive-quiz-system-main-interface.png) | ![数据报告](docs/assets/screenshots/interactive-quiz-system-data-report.png) |
+
+| 模拟考试（分页 + 倒计时） | 全局搜索（mark 高亮） |
+| :---: | :---: |
+| ![模拟考试](docs/assets/screenshots/interactive-quiz-system-exam.png) | ![全局搜索](docs/assets/screenshots/interactive-quiz-system-search.png) |
+
+| 深色模式 | 数据管理（快照 + 导入导出） |
+| :---: | :---: |
+| ![深色模式](docs/assets/screenshots/interactive-quiz-system-dark-mode.png) | ![数据管理](docs/assets/screenshots/interactive-quiz-system-data-management.png) |
+
+| 键盘快捷键指南 | 精致空状态 |
+| :---: | :---: |
+| ![键盘快捷键指南](docs/assets/screenshots/interactive-quiz-system-keyboard-shortcuts.png) | ![空状态](docs/assets/screenshots/interactive-quiz-system-empty-state.png) |
+
 ### 答题核心
 
 - 点击选项即时判对错，答对 0.5s 自动跳转，答错停留
