@@ -1,0 +1,6 @@
+name: med-exam
+description: 通用刷题系统（内置临床医学题库样例） — 纯 HTML/CSS/JS 单页应用
+profiles: [personal, vanilla-js]
+platforms: [claude-code, trae, workbuddy]
+project_docs:
+  - "[题库]交互式刷题页面.html"
