@@ -269,4 +269,4 @@
 
 ## License
 
-[MIT License](./LICENSE) © 2026 [Your Name]
+[MIT License](./LICENSE) © 2026 圭目

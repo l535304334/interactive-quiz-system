@@ -50,7 +50,7 @@
 | 1 | README.md | 11.9 KB | 项目介绍/亮点/功能/技术栈/快速开始/结构/快捷键 |
 | 2 | CHANGELOG.md | 6.4 KB | v1.0.0 发布记录，含 7 轮 RC 修复总结 |
 | 3 | CONTRIBUTING.md | 9.8 KB | 贡献流程/代码规范/提交规范/维护模式 |
-| 4 | LICENSE | 1.1 KB | MIT License, 2026, [Your Name] 占位符 |
+| 4 | LICENSE | 1.1 KB | MIT License, 2026, 圭目 |
 | 5 | PROJECT_OVERVIEW.md | 6.1 KB | 项目概览 |
 | 6 | SYSTEM_ARCHITECTURE.md | 14.5 KB | 系统架构设计 |
 | 7 | FEATURE_LIST.md | 9.6 KB | 功能清单 |
@@ -181,7 +181,7 @@
 | 4 | 无 CSP/HTTPS 保护 | 本地 file:// 协议 | 部署到服务器时自行增加 HTTPS+CSP |
 | 5 | 内置临床医学题库 | 其他学科需替换 | JSON 导入支持任意学科题库 |
 | 6 | Chart.js 依赖 CDN | 离线无图表 | 答题核心功能不受影响 |
-| 7 | LICENSE 含 [Your Name] 占位符 | 需用户替换 | 开源模板标准做法 |
+| 7 | LICENSE 版权人 | 已替换为"圭目" | 已完成 |
 
 ---
 
